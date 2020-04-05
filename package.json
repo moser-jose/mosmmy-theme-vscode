@@ -20,6 +20,7 @@
         "theme": "dark"
     },
     "icon": "img/logo.png",
+    "homepage": "https://moser-jose.github.io/mosmmy-theme-vscode/",
     "repository": {
         "type": "git",
         "url": "https://github.com/moser-jose/mosmmy-theme-vscode.git"
