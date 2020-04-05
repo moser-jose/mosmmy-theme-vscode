@@ -1,0 +1,42 @@
+{
+    "name": "mosmmy-theme",
+    "displayName": "Mosmmy Theme",
+    "description": "Official Mosmmy Theme",
+    "publisher": "moserjose",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "VSCode",
+        "Themes",
+        "Mosmmy"
+    ],
+    "galleryBanner": {
+        "color": "#2c3e66",
+        "theme": "dark"
+    },
+    "icon": "img/logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/moser-jose/mosmmy-theme-vscode.git"
+    },
+    "bugs": {
+        "url": "https://github.com/moser-jose/mosmmy-theme-vscode/issues"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mosmmy Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mosmmy Theme-color-theme.json"
+            }
+        ]
+    },
+    "scripts": {
+        "build": "vsce package"
+    }
+}
