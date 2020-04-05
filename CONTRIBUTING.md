@@ -8,13 +8,13 @@
 
 Para abrir um pull-request, primeiramente crie um fork do projeto para a sua conta, então clone o projeto em sua maquina:
 
-`git clone git@github.com:seu-usuario/mosmmy-themes-vscode.git`
+`git clone git@github.com:seu-usuario/mosmmy-theme-vscode.git`
 
 Agora pronto, você já pode começar a contribuir com o projeto!
 
 ## Reportando Issues
 
-Você pode criar uma issue [aqui](https://github.com/moser-jose/mosmmy-themes-vscode/issues), mas, lembre-se de ser claro e informar o máximo de detalhes possíveis.
+Você pode criar uma issue [aqui](https://github.com/moser-jose/mosmmy-theme-vscode/issues), mas, lembre-se de ser claro e informar o máximo de detalhes possíveis.
 
 ## Submetendo Pull Requests
 * Crie pull requests pequenos, para que a revisão seja feita mais facilmente
