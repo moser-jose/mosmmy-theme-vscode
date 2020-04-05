@@ -1,5 +1,9 @@
 # Changelog
 
+## 🔖 1.0.2  -  05-04-2020
+
+- Inclusão do Site do Projeto
+
 ## 🔖 1.0.1  -  05-04-2020
 
 - Atualização do README.md
