@@ -51,11 +51,12 @@ Veja o que tem mudado desde então [Aqui](/CHANGELOG.md).
 
 Este projeto é regida pela licença [MIT](/LICENSE.md).
 
-Lembre-se apenas de ser uma pessoa legal e enviar de volta eventuais modificações, correções ou melhorias. :)
 
 ## Como contribuir
 
-Leia o guia de contribuição [aqui](CONTRIBUTING.md)
+Leia o guia de contribuição [aqui](/CONTRIBUTING.md)
+
+Lembre-se apenas de ser uma pessoa legal e enviar de volta eventuais modificações, correções ou melhorias. :)
 
 ## Autor
 
