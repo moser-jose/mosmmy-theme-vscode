@@ -32,17 +32,11 @@
 4. Clicar em **Reload** para recarregar o `vscode`
 5. Ir em File > Preferences > Color Theme > **Mosmmy Theme**
 
-
-## Tipografia Recomendada
-
-Recomendo o uso da tipografia ``Nanum Gothic Coding`` pode ser encontrada [aqui](https://fonts.google.com/specimen/Nanum+Gothic+Coding?query=Nanum+Gothic+Coding), mas pode ser usada qualquer desde que ache melhor.
-
 ## Configurações Recomendadas
 
 ```js
 {
-  "editor.fontFamily": "NanumGothicCoding, monospace",
-  "editor.letterSpacing":1,
+  "editor.fontFamily": "monospace",
   "editor.fontSize": 18,
   "editor.lineHeight": 25,
   "editor.wordWrap": "on",
