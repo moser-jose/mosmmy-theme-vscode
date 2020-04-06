@@ -1,0 +1,257 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mosmmy Theme</title>
+    
+</head>
+<body>
+
+    <style>
+
+        *{
+            margin: 0;
+            padding: 0;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+        *:before,*:after{
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        .container {
+            width: 900px;
+            margin: 0 auto;
+            padding: 0;
+            position: relative;
+        }
+        a{
+            text-decoration: none;
+            color: #fff;
+        }
+        li{
+            list-style: none;
+        }
+
+        .container:after {
+            clear: both;
+        }
+
+        .container:after,
+        .container:before {
+            content: " ";
+            display: table;
+        }
+
+        .grid-8,
+        .grid-16
+        {
+            float: left;
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+        
+        .grid-8 {width:428px;}
+        .grid-16 {width:876px;}
+        .grid-1-3 {
+        width: 443px;
+        }
+        body{
+            background-color: #2c3e66;
+        }
+
+        .section{
+           padding-bottom:80px ;
+        }
+
+        
+        .section .img{
+            height: 500px;
+            margin: 10px auto !important;
+            box-shadow: 0 2px 13px 0 rgba(0,0,0,8);
+        }
+        .section .img img{
+            width: 100%;
+            height: 100%;
+        }
+        .cabecalho{
+            text-align: center;
+            /*margin-top: 80px;*/
+            padding: 40px 0;
+        }
+        .cabecalho h1{
+            font-family: 'Roboto', monospace;
+            font-size: 4rem;
+            margin:  0 0 15px 0;
+            color: #fff;
+            letter-spacing: 1px;
+            font-weight: 300;
+        }
+        .cabecalho a{
+            margin: 0 2px;
+
+        }
+        .cabecalho p{
+            background-color: #fe6f5f;
+            padding: 4px 8px;
+            color: #fff;
+            width: 60%;
+            margin: 0 auto;
+            margin-top: 10px;
+            border-radius: 4px;
+            box-shadow: 0 2px 3px 0 rgba(0,0,0,.1);
+            font-family: monospace;
+            font-size: 20px;
+            letter-spacing: 1px;
+        }
+        .cabecalho p span{
+            font-size: 14px;
+            letter-spacing: 1px;
+            background-color: #2c3e66;
+            padding: 2px 4px;
+            border-radius: 4px;
+            border-left: 1px solid #fff;
+            border-right: 1px solid #fff;
+
+        }
+        .cabecalho p span:hover{
+            background-color: #3a538a;
+        }
+
+        .botoes{
+            margin: 30px auto;
+            text-align: center;
+            height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            
+
+        }
+        .botoes a{
+            padding: 6px 12px;
+            background-color: #f7f8f3;
+            font-family: monospace;
+            font-size: 1.3em;
+            color: #2c3e66;
+            margin: 0 10px;
+            border-radius: 8px;
+            box-shadow: 0 2px 3px rgba(0,0,0,.1);
+        }
+
+        .botoes a:hover{
+            background-color: #e8ebdf;
+        }
+        .prog{
+            margin-top: 40px;
+            height: 90px;
+            padding: 10px 0;
+        }
+        .prog ul li img{
+            width: 25px;
+        }
+        
+        .prog ul {
+            text-align: center;
+        }
+        .prog ul li{
+            display: inline-block;
+            margin: 0 5px;
+        }
+        .prog p{
+            text-align: center;
+            font-family: monospace;
+            font-weight: 100;
+            font-size: 14px;
+            color: #f7f8f3;
+            padding: 10px 0;
+            letter-spacing: 1px;
+        }
+
+        footer{
+            position: fixed;
+            bottom: 0; 
+            width: 100%;
+            
+        }
+        footer p{
+                      
+            width: 100%;
+            background-color: #f7f8f3;
+            height: 30px;
+            color: #2c3e66;
+            font-family: monospace;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        footer p a{
+            color: #2c3e66;
+            font-size: 16px;
+        }
+
+
+    </style>
+
+
+    <section class="section container">
+        <div class="cabecalho grid-16">
+            <h1>Mosmmy Theme</h1>
+            <a href="https://marketplace.visualstudio.com/items?itemName=moserjose.mosmmy-theme">
+            <img src="https://vsmarketplacebadge.apphb.com/installs/moserjose.mosmmy-theme.svg" alt="Installs">
+            </a>
+            <a href="https://marketplace.visualstudio.com/items?itemName=moserjose.mosmmy-theme">
+                <img src="https://vsmarketplacebadge.apphb.com/downloads/moserjose.mosmmy-theme.svg" alt="Downloads">
+            </a>
+            <a href="https://marketplace.visualstudio.com/items?itemName=moserjose.mosmmy-theme">
+                <img src="https://vsmarketplacebadge.apphb.com/version-short/moserjose.mosmmy-theme.svg" alt="Version">
+            </a>
+            <a href="https://marketplace.visualstudio.com/items?itemName=moserjose.mosmmy-theme">
+                <img src="https://vsmarketplacebadge.apphb.com/rating-short/moserjose.mosmmy-theme.svg" alt="Rating">
+            </a>
+            <a href="http://opensource.org/licenses/MIT">
+                <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License">
+            </a>
+            <p>Tema para Visual Studio Code <span><a href="https://github.com/moser-jose">by Moser José</a></span></p>
+        </div>
+
+        <div class="img grid-16">
+            <img src="images/principal.jpg" alt="Tema">
+        </div>
+        <div class="botoes grid-16">
+            <a href="https://marketplace.visualstudio.com/items?itemName=moserjose.mosmmy-theme">Download</a>
+            <a href="https://github.com/moser-jose/mosmmy-theme-vscode">Github</a>
+            <a href="https://github.com/moser-jose">Autor</a>
+        </div>
+
+        <div class="prog grid-16">
+            <p>Suport para as ferramentas como:</p>
+            <ul>
+                <li><img src="images/html.svg" alt="HTML"></li>
+                <li><img src="images/css.svg" alt="CSS"></li>
+                <li><img src="images/scss.svg" alt="SCSS"></li>
+                <li><img src="images/js.svg" alt="JAVASCRIPT"></li>
+                <li><img src="images/php.svg" alt="PHP"></li>
+                <li><img src="images/json.svg" alt="JSON"></li>
+                <li><img src="images/markdown.svg" alt="MARKDOWN"></li>
+                <li><img src="images/react.svg" alt="REACT"></li>
+                <li><img src="images/vue.svg" alt="VUE"></li>
+                <li><img src="images/editorconfig.svg" alt="EDITORCONFIG"></li>
+                <li><img src="images/yarn.svg" alt="YARN"></li>
+            </ul>
+        </div>
+    
+        
+    </section>
+
+
+    <footer>
+        <p><a href="https://github.com/moser-jose"> by Moser José</a></p>
+    </footer>
+</body>
+</html>
