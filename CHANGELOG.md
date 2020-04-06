@@ -2,7 +2,7 @@
 
 ## 🔖 1.0.3  -  06-04-2020
 
-- mudança do logótipo
+- Mudança do logótipo
 
 ## 🔖 1.0.2  -  05-04-2020
 
