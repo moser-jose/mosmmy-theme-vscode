@@ -1,0 +1,157 @@
+footer{
+    position: fixed;
+    bottom: 0; 
+    width: 100%;
+    background-color: #fe6f5f;
+    display: flex;
+    justify-content: center;
+    .menu-social {
+        padding: 4px 0;
+        .social-icons {
+            .icon-button {
+            background-color: #fff;
+            box-shadow: 0 2px 3px 0 rgba(0,0,0,.1);
+            border-radius:2.4rem;
+            cursor: pointer;
+            display: inline-block;
+            font-size: 20px;
+            height: 2rem;
+            line-height: 2rem;
+            margin: 0 5px;
+            position: relative;
+            text-align: center;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            width: 2rem;
+            }
+    
+            .icon-button span {
+            border-radius:0;
+            display: block;
+            height: 0;
+            left: 50%;
+            margin: 0;
+            position: absolute;
+            top: 50%;
+            transition:all 0.3s;
+            width: 0;
+            }
+            .icon-button:hover span {
+            width: 2rem;
+            height: 2rem;
+            border-radius:2rem;
+            margin: -1rem;
+            }
+            .twitter span {
+            background-color: #4099ff;
+            z-index: 1;
+            }
+            .facebook span {
+            background-color: #3b5998;
+            z-index: 1;
+            }
+            .instagram span {
+            background: #f09433;
+            background: -moz-linear-gradient(
+                45deg,
+                #f09433 0%,
+                #e6683c 25%,
+                #dc2743 50%,
+                #cc2366 75%,
+                #bc1888 100%
+            );
+            background: -webkit-linear-gradient(
+                45deg,
+                #f09433 0%,
+                #e6683c 25%,
+                #dc2743 50%,
+                #cc2366 75%,
+                #bc1888 100%
+            );
+            background: linear-gradient(
+                45deg,
+                #f09433 0%,
+                #e6683c 25%,
+                #dc2743 50%,
+                #cc2366 75%,
+                #bc1888 100%
+            );
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+            z-index: 1;
+            }
+            .linkedin span {
+            background-color: #0077b5;
+            z-index: 1;
+            }
+            .github span {
+                background-color: #000;
+                z-index: 1;
+                }
+    
+            .icon-button i {
+            background: none;
+            color: white;
+            height: 2.4rem;
+            left: 0;
+            line-height: 2.4rem;
+            position: absolute;
+            top: 0;
+            transition:all 0.1s;
+            width: 2.4rem;
+            z-index: 10;
+            }
+            .icon-button .fa-twitter {
+            color: #4099ff;
+            }
+            .icon-button .fa-facebook-f {
+            color: #3b5998;
+            }
+            .icon-button .fa-instagram {
+            color: #000;
+            }
+            .icon-button .fa-linkedin-in {
+            color: #0077b5;
+            }
+            .icon-button .fa-github {
+                color: #000;
+                }
+            .icon-button:hover .fa-twitter {
+            color: white;
+            z-index: 11;
+            position: relative;
+            }
+            .icon-button:hover .fa-facebook-f {
+            color: white;
+            z-index: 11;
+            position: relative;
+            }
+            .icon-button:hover .fa-instagram {
+            color: white;
+            z-index: 11;
+            position: relative;
+            }
+            .icon-button:hover .fa-linkedin-in {
+            color: white;
+            z-index: 11;
+            position: relative;
+            }
+            .icon-button:hover .fa-github {
+                color: #fff;
+                z-index: 11;
+                position: relative;
+                }
+        }
+        p {
+            padding: 20px 0;
+            letter-spacing: 1px;
+            font-family: "Rubik", sans-serif;
+            font-size: 12px;
+            a {
+            color: #3b5998;
+            }
+        }
+        }
+       
+}

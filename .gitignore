@@ -4,8 +4,3 @@ themes
 .vscodeignore
 *.md
 node_modules
-css/scss/
-css/css-scss/
-js/main
-js/plugins
-package-lock.json
