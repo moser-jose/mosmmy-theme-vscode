@@ -14,13 +14,11 @@
 
 ### Exemplos de Código `(HTML, JS, SCSS )`
 
+![Exemplo 1](img/imagem1.jpg)
 
+![Exemplo 2](img/imagem2.jpg)
 
-![Exemplo 1](img/image1.jpg)
-
-![Exemplo 2](img/image2.jpg)
-
-![Exemplo 3](img/image3.jpg)
+![Exemplo 3](img/imagem3.jpg)
 
 </div>
 
