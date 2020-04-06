@@ -2,7 +2,7 @@
 
 ## 🔖 1.0.3  -  06-04-2020
 
-- mudança do logotipo
+- mudança do logótipo
 
 ## 🔖 1.0.2  -  05-04-2020
 
@@ -15,4 +15,4 @@
 
 ## 🔖 1.0.0  -  05-04-2020
 
-- Actualização da extrutura do projeto
+- Atualização da estrutura do projeto
