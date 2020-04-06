@@ -1,5 +1,9 @@
 # Changelog
 
+## 🔖 1.0.3  -  06-04-2020
+
+- mudança do logotipo
+
 ## 🔖 1.0.2  -  05-04-2020
 
 - Inclusão do Site do Projeto
