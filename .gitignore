@@ -1,0 +1,6 @@
+.vscode
+img
+themes
+.vscodeignore
+*.md
+*.json
