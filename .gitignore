@@ -3,4 +3,9 @@ img
 themes
 .vscodeignore
 *.md
-*.json
+node_modules
+css/scss/
+css/css-scss/
+js/main
+js/plugins
+package-lock.json
