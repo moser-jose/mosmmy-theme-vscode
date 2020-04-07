@@ -1,5 +1,10 @@
 # Changelog
 
+## 🔖 1.0.5  -  07-04-2020
+
+- Acréscimo de algumas cores
+- Mudança na documentação
+
 ## 🔖 1.0.3  -  06-04-2020
 
 - Mudança do logótipo
