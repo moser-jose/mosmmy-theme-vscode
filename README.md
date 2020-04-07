@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### Exemplos de Código `(HTML, JS, SCSS )`
+### Exemplos de Código `(HTML, JS, CSS )`
 
 ![Exemplo 1](img/imagem1.jpg)
 
