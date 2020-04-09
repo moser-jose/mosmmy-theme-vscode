@@ -3,7 +3,6 @@
  <div align="center">
 
 [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs/moserjose.mosmmy-theme.svg)](https://marketplace.visualstudio.com/items?itemName=moserjose.mosmmy-theme)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/moserjose.mosmmy-theme.svg)](https://marketplace.visualstudio.com/items?itemName=moserjose.mosmmy-theme)
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/moserjose.mosmmy-theme.svg)](https://marketplace.visualstudio.com/items?itemName=moserjose.mosmmy-theme)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/moserjose.mosmmy-theme.svg)](https://marketplace.visualstudio.com/items?itemName=moserjose.mosmmy-theme)
 [![The MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
