@@ -1,5 +1,9 @@
 # Changelog
 
+## 🔖 1.0.6  -  09-04-2020
+
+-Alteração de cores padrão
+
 ## 🔖 1.0.5  -  07-04-2020
 
 - Acréscimo de algumas cores

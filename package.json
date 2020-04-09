@@ -3,7 +3,7 @@
     "displayName": "Mosmmy Theme",
     "description": "Official Mosmmy Theme",
     "publisher": "moserjose",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "engines": {
         "vscode": "^1.43.0"
     },
@@ -35,7 +35,14 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/mosmmy-color-theme.json"
             }
-        ]
+        ],
+        "iconThemes": [
+            {
+              "label": "Mosmmy Theme",
+              "id": "mosmmy-theme",
+              "path": "./icons/mosmmy-icons-theme.json"
+            }
+          ]
     },
     "scripts": {
         "build": "vsce package"
