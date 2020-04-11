@@ -1,5 +1,6 @@
 .vscode
 img
 themes
+.vscodeignore
 *.md
 node_modules
