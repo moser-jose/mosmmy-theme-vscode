@@ -2,9 +2,10 @@
 
  <div align="center">
 
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs/moserjose.mosmmy-theme.svg)](https://marketplace.visualstudio.com/items?itemName=moserjose.mosmmy-theme)
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/moserjose.mosmmy-theme.svg)](https://marketplace.visualstudio.com/items?itemName=moserjose.mosmmy-theme)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/moserjose.mosmmy-theme.svg)](https://marketplace.visualstudio.com/items?itemName=moserjose.mosmmy-theme)
+[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/i/moserjose.mosmmy-theme)](https://marketplace.visualstudio.com/items?itemName=moserjose.mosmmy-theme)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/moserjose.mosmmy-theme)](https://marketplace.visualstudio.com/items?itemName=moserjose.mosmmy-theme)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/moserjose.mosmmy-theme)](https://marketplace.visualstudio.com/items?itemName=moserjose.mosmmy-theme)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/moserjose.mosmmy-theme)](https://marketplace.visualstudio.com/items?itemName=moserjose.mosmmy-theme)
 [![The MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
 </div>
