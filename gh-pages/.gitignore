@@ -1,0 +1,4 @@
+.vscode
+themes
+*.md
+node_modules
